@@ -1,0 +1,28 @@
+
+myenv/
+.env
+
+
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit specific
+.streamlit/config.toml
+.streamlit/static/
+
+
+# Local data files
+chest_xray/
+*.csv
+*.json
+*.parquet
+*.sqlite
+
+# Log files
+*.log
