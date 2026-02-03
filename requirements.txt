@@ -2,4 +2,5 @@
 streamlit
 Pillow
 
-nump
+numpy
+
